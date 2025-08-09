@@ -5,8 +5,8 @@ import pandas as pd
 import mysql.connector
 
 # Load model and features
-model = pickle.load(open("churn_model.pkl", "rb"))
-features = pickle.load(open("feature_columns.pkl", "rb"))
+model = pickle.load(open("./ML_Model/churn_model.pkl", "rb"))
+features = pickle.load(open("./ML_Model/feature_columns.pkl", "rb"))
 
 app = Flask(__name__)
 
