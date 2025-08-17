@@ -33,6 +33,10 @@ A Machine Learning-powered Flask web application that predicts whether a custome
 - Confidence score of the prediction
 - Logs saved to MySQL database with input + prediction
 
+## 🔗 Live Demo
+
+👉 [Click here to view the demo](https://340znwv3-5000.inc1.devtunnels.ms/)
+
 ## 💡 Future Work
 
 - Add user authentication
